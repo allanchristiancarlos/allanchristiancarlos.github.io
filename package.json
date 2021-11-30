@@ -9,8 +9,7 @@
     "husky": "^7.0.4"
   },
   "scripts": {
-    "hugo": "hugo",
-    "postinstall": "husky install"
+    "hugo": "hugo"
   },
   "husky": {
     "hooks": {
