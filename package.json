@@ -11,5 +11,9 @@
   "scripts": {
     "hugo": "hugo",
     "prepare": "husky install"
+  },
+  "dependencies": {
+    "prettier": "^2.5.0",
+    "pretty-quick": "^3.1.2"
   }
 }

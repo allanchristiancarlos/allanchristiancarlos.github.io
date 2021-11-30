@@ -3,3 +3,4 @@
 
 yarn hugo
 git add -A
+npx pretty-quick --staged
