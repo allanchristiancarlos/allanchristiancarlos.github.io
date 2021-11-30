@@ -5,3 +5,4 @@ theme="hugo-theme-hello-friend-ng"
 paginate=2
 Copyright="©allanchristiancarlos 2021"
 canonifyurls=true
+publishDir="docs"
