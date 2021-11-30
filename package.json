@@ -12,7 +12,9 @@
     "hugo": "hugo",
     "postinstall": "husky install"
   },
-  "hooks": {
-    "pre-commit": "yarn hugo"
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn hugo"
+    }
   }
 }
