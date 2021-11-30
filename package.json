@@ -9,7 +9,8 @@
     "husky": "^7.0.4"
   },
   "scripts": {
-    "hugo": "hugo"
+    "hugo": "hugo",
+    "postinstall": "husky install"
   },
   "hooks": {
     "pre-commit": "yarn hugo"
